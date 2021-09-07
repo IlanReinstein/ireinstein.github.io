@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Ilan Reinstein</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Resources to Learn Bayesian Stats</title>
+      <link>/post/resources-to-learn-bayesian-stats/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/resources-to-learn-bayesian-stats/</guid>
+      <description>&lt;p&gt;In this post, I summarize a series of resources to get started with Bayesian Statistics. I compiled these references myself based on my own experience and opinion as to what a good introduction and next steps are in this process. This is not an academic curriculum or anything tremendously rigorous, but it is a comprehensive list that will surely get you embarked on the journey to revisiting/starting your statistics. Many of the references below were recommended to me in several workshops I&amp;rsquo;ve attended and I wanted to share with those like me that want to be better at statistics and Machine Learning (ML).&lt;/p&gt;
+&lt;p&gt;The first resource I can think of out there for beginners interested in Bayesian statistics and modeling is Richard McElreath’s 
+&lt;a href=&#34;https://xcelab.net/rm/statistical-rethinking/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical Rethinking&lt;/a&gt;
+. Here you’ll learn everything from applying Bayes’ rule in simple problems to complex multilevel/hierarchical models. Since this is not only a book but also a full course, you should definitely follow along your reading with the 
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video lectures on YouTube&lt;/a&gt;
+. I would encourage you to work through the code and exercises at the end of each chapter, it is the best way to start getting hands on expertise in this topic. Another great thing is that the book’s R package 
+&lt;a href=&#34;https://github.com/rmcelreath/rethinking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;rethinking&lt;/code&gt;&lt;/a&gt;
+ and all the example code has been translated into multiple programming languages, so you are free to choose the one of your preference to go through the reading.&lt;/p&gt;
+&lt;p&gt;A powerful reference for those that feel like brushing up your stats with real-world examples, Andrew Gelman and Jennifer Hill’s 
+&lt;a href=&#34;http://www.stat.columbia.edu/~gelman/arm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Analysis Using Regression and Multilevel/Hierarchical Models&lt;/a&gt;
+ is a fantastic book for those with more interest on Applied Statistics on a social science setting. An updated version of this book is called 
+&lt;a href=&#34;https://avehtari.github.io/ROS-Examples/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regression and Other Stories&lt;/a&gt;
+ (Andrew Gelman, Jennifer Hill, Aki Vehtari) and it will be released later this year. If you&amp;rsquo;d like to work through another more advanced course on Bayesian Statistics, I suggest you visit 
+&lt;a href=&#34;https://github.com/avehtari/BDA_course_Aalto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aki Vehtari’s teaching page&lt;/a&gt;
+. Although more challenging than McElreath&amp;rsquo;s class it is worth checking it out. Again, the course material is available in R and Python.&lt;/p&gt;
+&lt;p&gt;Now, you’ve refreshed your basic stats and gone through most of McElreath’s book, but you are also looking into ML. You may wonder, where should I go? What to do next? Challenge yourself to read Christopher Bishop’s 
+&lt;a href=&#34;https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pattern Recognition and Machine Learning&lt;/a&gt;
+. Bishop’s book presents all the well known ML concepts from regression and classification to neural networks through a concealed Bayesian lens. It is fair to say that I&amp;rsquo;ve deeply strengthen my knowledge in both ML and Bayesian statistics just by working through the first chapters. Although I highly recommend it, keep in mind this is an advanced book and it takes some time to get your head around the concepts.&lt;/p&gt;
+&lt;p&gt;At the same level as Bishop’s book, you can also find a rigorous and detailed explanation of Bayesian statistics and modeling on 
+&lt;a href=&#34;http://www.inference.org.uk/mackay/itila/book.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David MacKay’s Information Theory, Inference, and Learning Algorithms&lt;/a&gt;
+. I was fortunate enough to use this book in college, and it still proves to be essential whenever I want to revisit some probability concepts, Bayesian statistics and ML. The book&amp;rsquo;s webpage also provides software resources and examples for you to experiment and play around as you navigate the text.&lt;/p&gt;
+&lt;p&gt;Whenever you feel comfortable enough with the basics to go deeper into the math and the theoretical concepts behind probabilistic modeling, probabilistic computation and applied Bayesian Statistics I strongly encourage you to read &lt;em&gt;all&lt;/em&gt; of 
+&lt;a href=&#34;https://betanalpha.github.io/writing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Betancourt’s case studies&lt;/a&gt;
+ in due order. This will be challenging to grasp at first, but as you go back over the content and dedicate the time to understand these concepts, the reward is huge.&lt;/p&gt;
+&lt;p&gt;It is not very often that you hear about the success stories of Bayesian methods in industry, specially nowadays against the huge amount of attention on ML and AI. For those that like podcasts to listen to stories about practitioners and people applying Bayesian statistics to their fields I strongly advise that you check out Alexandre Andorra&amp;rsquo;s podcast Learning Bayesian Statistics. Alex does an amazing job at interviewing professionals from a wide variety of fields, with incredibly diverse backgrounds and experiences, hence introducing you to the vast universe of applications of Bayesian statistics.&lt;/p&gt;
+&lt;p&gt;One final thing that it is a hard requirement and a common thread between the references and resources listed above is Markov Chain Monte Carlo (MCMC). In order to fully explore probability spaces and distributions you need efficient and reliable computational methods like MCMC and its advanced variants. Today, many programming languages are capable of implementing such advanced estimation algorithm but the most popular are 1) 
+&lt;a href=&#34;https://mc-stan.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stan&lt;/a&gt;
+, which is built on C++ and has multiple interfaces to R (
+&lt;a href=&#34;http://mc-stan.org/rstanarm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstanarm&lt;/a&gt;
+, 
+&lt;a href=&#34;https://paul-buerkner.github.io/brms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;brms&lt;/a&gt;
+), Python (
+&lt;a href=&#34;https://pystan.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyStan&lt;/a&gt;
+), Julia and others; and 2) 
+&lt;a href=&#34;https://docs.pymc.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyMC3&lt;/a&gt;
+. If you are interested in learning the basics you may visit their webpages to see examples with code.&lt;/p&gt;
+&lt;p&gt;Some personal remarks on my own journey through Bayesian Statistics. This topic is not easy, you should invest some time to see some progress. The references above are a great starting point and I’ve noticed an important step forward in my learning path by trying to apply Bayesian methods to my own work. For me, its fundamentals are more intuitive and transparent, and overall simpler to grasp (at least conceptually), but considerably harder to apply.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Content on Machine Learning</title>
+      <link>/post/content-machine-learning/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/content-machine-learning/</guid>
+      <description>&lt;p&gt;As part of my journey in Statistics and Machine Learning, I was fortunate enough to write original content about popular libraries, algorithms and software packages used in this line of work. This content was all developed during the time I worked with KDnuggets, a site that is widely recognized for its contributions on content about recent advances in the field of Big Data and Predictive Analytics.&lt;/p&gt;
+&lt;p&gt;You may visit the site and my contributions on this 
+&lt;a href=&#34;https://www.kdnuggets.com/author/ilan-reinstein&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;I hope you enjoy it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latin America&#39;s Energy Market</title>
+      <link>/post/iadb-energy-viz/latin-america-energy-market/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/post/iadb-energy-viz/latin-america-energy-market/</guid>
+      <description>&lt;p&gt;As part of a consultancy project I did for the Interamerican Development Bank (IADB), I worked closely with the Energy and  Oil &amp;amp; Gas division to develop a series of interactive tools that would allow them to summarise their data in a friendly way , and so that this information may be shared internally with other departments and externally with stakeholders, i.e., countries and governments.&lt;/p&gt;
+&lt;p&gt;The data used for this project was provided internally by the bank, as well as gathered from different sources like BP&amp;rsquo;s Annual Energy Report, OECD data, World Bank data, and OPEC data among others.&lt;/p&gt;
+&lt;p&gt;The actual product consists in a series of interactive maps developed in D3, and it is hosted inside the bank, therefore data and code may not be shared. However, an overview of the project may be observed in the following pictures.I hope you like my visualization work!&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Energy Efficiency and Intensity&lt;/strong&gt;
+&lt;img src=&#34;/img/eficiencia.png&#34; alt=&#34;img1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gas Consumption Aggregated and General Information&lt;/strong&gt;
+&lt;img src=&#34;/img/gas-consum-overall.png&#34; alt=&#34;img2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gas Consumption Diasggregated&lt;/strong&gt;
+&lt;img src=&#34;/img/gas-consum.png&#34; alt=&#34;img3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gas Import and Export Data&lt;/strong&gt;
+&lt;img src=&#34;/img/gas-import-export.png&#34; alt=&#34;img4&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Six Degress of Data Turbulence</title>
+      <link>/post/six-degress-of-data-turbulence/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/post/six-degress-of-data-turbulence/</guid>
+      <description>&lt;p&gt;Finally, I have made some time to begin adding some interesting content to this blog. I&amp;rsquo;ve been looking for a few minutes to gather some of the music I&amp;rsquo;ve heard lately, and decide which one has been the most &lt;strong&gt;resonant&lt;/strong&gt; with my daily mood. If you don&amp;rsquo;t like heavy metal, progressive music, or psychedelic rock, then maybe this site is not for you. If you do like it, then I will try to come up with great suggestions for you to listen during those times of tremendous focus. I am one of those people that needs to listen to some tunes in order to work faster and better, otherwise my routine will be dull, unexciting, and even worst, a field trip to my attention span. If sometimes you feel the same way, welcome to &lt;strong&gt;Resonance,&lt;/strong&gt; where the musical recommendations are intended to resonate with your working day, in particular, while performing Data Science related tasks like data cleaning, testing, scripting, plotting, Kaggling, etc.&lt;/p&gt;
+&lt;p&gt;I also hope this blog helps you and I explore new music for Data Science. I clearly intend to hear suggestions from others and apply them to whatever working mood I feel on a given day: your thoughts and ideas are welcome here. So, without further ado, here is the first entry of this blog. Please enjoy, rock on, and keep working.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Today, I&amp;rsquo;ve been collecting information about Data Science and Analytics graduate programs around Europe. It has been a very mechanic, almost automatic activity, so I thought something structured, powerful, and continuous was necessary. That is why I tuned into Dream Theater, specifically, Six Degrees of Inner Turbulence. This album is from the early 2000&amp;rsquo;s and it is divided into two. I&amp;rsquo;ve had this album on my library for years now, but it was only until about a couple of weeks that I listened to it carefully while cruising the web and writing some code. I was blown away by the amount of work I managed to complete for the duration of the record.&lt;/p&gt;
+&lt;p&gt;I kept playing it for next days while working and I was amazed by how much energy the album can transmit. The highly structured rhythm patterns and complex compositions are just amazing, as well as the diversity and variety of the songs, just enough variability to keep you interested and focused at the same time. One particular aspect of the album, which I think contributes enormously to my productivity, is the longevity and continuity of every song: a not uncommon feature in the band&amp;rsquo;s writing and playing style. The fact that you don&amp;rsquo;t notice when a song ends and the other begins is a key factor to stay focused as you hardly keep track of how much time has passed. That feeling, I believe is key when finding the right piece to sit down and get things done, an overwhelming sense of non-advancing, infinite time.&lt;/p&gt;
+&lt;p&gt;Listening to Portnoy&amp;rsquo;s double kick for hours is the best medicine for restlessness and constant distractions. If you manage to keep up with with his pace, you will most definitely maintain full concentration for long period of time, even at late-night hours. When is not the drums, someone else is going to be hitting those 16th notes at high speeds, and that for me is uplifting and motivating.&lt;/p&gt;
+&lt;p&gt;As you begin the album, you are greeted by The Glass Prison, an absolute 14-minute masterpiece, enough to get your to-do lists done at a nice rhythm. Then comes Blind Faith, usually this is the one that I need to listen to with full attention, I just enjoy that song too much. You will continue through this first part with great stamina and focus, and then&amp;hellip; Overture. A majestic instrumental piece which opens up the gates to what I think is the more conceptual part of the album, and from there on, the album has already absorbed you into its full depth. An interesting fact, if you listen to Dream Theater&amp;rsquo;s albums carefully, and in alphabetical order, for example, Scenes From a Memory -&amp;gt; Six Degrees, you will see that they are perfectly connected so you could listen to them for an entire day! However, we will not dive into that today so let&amp;rsquo;s return to our idea.&lt;/p&gt;
+&lt;p&gt;By the time I&amp;rsquo;ve finished the album, I have already crossed out more than half of my daily tasks and it&amp;rsquo;s not even lunch time. This album not just gives me push and stamina, but it is also loud and powerful enough to keep me focused and calm. On stressful days, listening to something heavy is always good, you don&amp;rsquo;t hear the noise of unnecessary worries and problems in your head, you manage to just keep moving and finish everything properly without being so restless. Needless to say, it&amp;rsquo;s Dream Theater we are talking about, so I had to stop every now and then to grasp and enjoy the epic guitar solos and the long, loud, and melancholic finales.&lt;/p&gt;
+&lt;p&gt;I hope you listen and enjoy this incredibly epic, conceptual, fast-paced album. In a future post, I will write more about Dream Theater as it is my go-to band during working hours. They have tons of material, highly suited to do data science, so I will be circling back to them.&lt;/p&gt;
+&lt;p&gt;Rock n&amp;rsquo; roll&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My first data stories...</title>
+      <link>/post/my-first-data-stories/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/post/my-first-data-stories/</guid>
+      <description>&lt;p&gt;This post is simply to display and promote some of my early projects in analytics and data visualization. The topics are diverse, ranging from sports to energy economics. These are simply some exploratory and visual analyses I performed in 2014 when trying to promote our product. The purpose of these posts was to educate businesses on the potential of data-driven decisions as well as showcase and expose our data products and solutions.&lt;/p&gt;
+&lt;p&gt;I am very fond of these small projects as it was my first experience using R and performing data analytics and visualization, thus encouraging me to pursue a career in data science. I hope you enjoy the read and the insight. I will try to produce newer posts in the near future.&lt;/p&gt;
+&lt;p&gt;Follow this link to see the full 
+&lt;a href=&#34;http://rpubs.com/ireinstein&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portfolio&lt;/a&gt;
+ with both the code and the data story.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

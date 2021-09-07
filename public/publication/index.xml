@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ilan Reinstein</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Learning Curves and Multilevel Models</title>
+      <link>/publication/learning-curves-multilevel-models/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-curves-multilevel-models/</guid>
+      <description>&lt;p&gt;The purpose of this project is to build an adaptive learning algorithm that uses learner-specific responses to generate predictions and next-item-recommendations on a next item conditioned on the learner&amp;rsquo;s ability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NYU&#39;s COVID-19 Response</title>
+      <link>/publication/nyu-covid-19-response/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nyu-covid-19-response/</guid>
+      <description>&lt;p&gt;As one of many of NYU Langone&amp;rsquo;s data scientists, I got to collaborate with the wonderful team from the Predictive Analytics Unit from NYU&amp;rsquo;s Medical Center to develop a model capable of predicting which patients will have favorable outcomes after being hospitalized. These were intense weeks not only at NYU and I am proud of being able to contribute to this project and help our physicians during these challenging times.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

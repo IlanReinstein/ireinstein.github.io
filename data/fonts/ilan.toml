@@ -1,0 +1,16 @@
+# Font style metadata
+name = "ilan"
+
+# Optional Google font URL
+google_fonts = "News+Cycle|PT+Sans|Gelasio|Ibarra+Real+Nova|Libre+Caslon+Text|Lora|Playfair+Display"
+
+# Font families
+# Font families
+heading_font = "Lora"
+body_font = "Gelasio"
+nav_font = "PT+Sans"
+mono_font = "Playfair+Display"
+#Font size
+font_size = 10
+font_size_small = 8
+
