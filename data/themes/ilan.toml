@@ -2,14 +2,14 @@
 name = "ilan"
 light = true
 # Primary
-primary = "#74A0A8"
+primary = "#3b5b83"
 
 # Menu
-menu_primary = "#013E51"
+menu_primary = "#386B65"
 menu_text = "#F7ECDF"
 menu_text_active = "#9AA899"
 menu_title = "#3C752B"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
+home_section_odd = "rgb(247, 247, 247)"
 home_section_even = "rgb(247, 247, 247)"

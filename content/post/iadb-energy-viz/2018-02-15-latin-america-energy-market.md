@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-As part of a consultancy project I did for the Interamerican Development Bank (IADB), I worked closely with the Energy and  Oil & Gas division to develop a series of interactive tools that would allow them to summarise their data in a friendly way , and so that this information may be shared internally with other departments and externally with stakeholders, i.e., countries and governments.
+As part of a consultancy project I did for the Interamerican Development Bank (IADB), I worked closely with the Energy and  Oil & Gas division to develop a series of interactive tools that would allow them to summarize their data in a friendly way , and so that this information may be shared internally with other departments and externally with stakeholders, i.e., countries and governments.
 
 The data used for this project was provided internally by the bank, as well as gathered from different sources like BP's Annual Energy Report, OECD data, World Bank data, and OPEC data among others.
 
@@ -26,15 +26,15 @@ The actual product consists in a series of interactive maps developed in D3, and
 Cheers!
 
 **Energy Efficiency and Intensity**
-![img1](/img/eficiencia.png)
+![img1](/media/img/eficiencia.png)
 
 **Gas Consumption Aggregated and General Information**
-![img2](/img/gas-consum-overall.png)
+![img2](/media/img/gas-consum-overall.png)
 
 **Gas Consumption Diasggregated**
-![img3](/img/gas-consum.png)
+![img3](/media/img/gas-consum.png)
 
 **Gas Import and Export Data**
-![img4](/img/gas-import-export.png)
+![img4](/media/img/gas-import-export.png)
 
 
