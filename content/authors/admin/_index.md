@@ -19,7 +19,7 @@ name: Ilan Reinstein
 organizations:
 - name: NYU Grossman School of Medicine
   url: "https://med.nyu.edu/departments-institutes/innovations-medical-education/"
-role: Associate Research Scientist
+role: Data Scientist, Machine Learning Engineer
 social:
 - icon: envelope
   icon_pack: fas
