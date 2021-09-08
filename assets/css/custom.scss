@@ -1,0 +1,18 @@
+// Override this file to add your own SCSS styling.
+.menu,
+nav#navbar-main li.nav-item {
+  font-size: 17px;
+  font-weight: bold;
+}
+.dark a,
+h3.article-title a:hover {
+  color: {{ .Get "primary" }};
+}
+
+.dark .form-control:focus {
+  border-color: {{ .Get "menu_text_active" }};
+}
+
+.dark .featurette-icon {
+  color: {{ .Get "primary" }};
+}

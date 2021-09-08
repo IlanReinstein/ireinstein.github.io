@@ -158,6 +158,7 @@ link_authors = true
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []
+plugin_css = '/assets/css/custom.scss'
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
