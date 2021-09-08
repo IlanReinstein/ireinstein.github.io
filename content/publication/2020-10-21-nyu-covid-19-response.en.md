@@ -6,10 +6,11 @@ slug: nyu-covid-19-response
 categories: []
 tags: []
 subtitle: ''
-summary: "I collaborated with NYU's PAU team in response to the current COVID-19 pandemic."
+summary: "The COVID-19 pandemic has challenged front-line clinical decision-making, leading to numerous published prognostic tools. Here, we use retrospective and prospective hospitalizations to develop and validate a parsimonious model to identify patients with favorable outcomes, based on real-time lab values, vital signs, and oxygen support variables."
 external_link: ''
 authors: []
-url_pdf: 'https://www.nature.com/articles/s41746-020-00343-x'
+doi: "https://doi.org/10.1038/s41746-020-00343-x"
+# url_pdf: 'https://www.nature.com/articles/s41746-020-00343-x'
 lastmod: '2020-10-21T19:41:43-04:00'
 featured: false
 image:

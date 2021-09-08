@@ -2,15 +2,17 @@
 title: Learning Curves and Multilevel Models
 author: Ilan Reinstein
 date: '2020-10-21'
+doi: "https://doi.org/10.1007/s10459-021-10027-0"
 slug: learning-curves-multilevel-models
 categories: []
 tags: ['multilevel models', 'learning curves']
 subtitle: ''
 external_link: ''
-summary: 'This paper is about the use of Multilevel Models in Medical Education.'
+summary: 'The developed approach can thus give researchers and educators a better basis on which to anticipate learners’ pathways and individually adapt their future learning.'
 authors: []
-url_pdf: 'https://doi.org/10.1007/s10459-021-10027-0'
+
 url_code: 'https://github.com/IlanReinstein/ecg_paper'
+url_dataset: "https://education.med.nyu.edu/ecg-database/app"
 lastmod: '2020-10-21T19:19:22-04:00'
 featured: false
 projects: []
