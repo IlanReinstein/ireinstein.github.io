@@ -266,6 +266,6 @@ plugin_css = '/assets/css/custom.scss'
 ############################
 [marketing]
   google_analytics = "true"
-  google_tag_manager = ""
+  google_tag_manager = "G-4Y8DGBNFQF"
 [icon.pack]
   ai = "true"
