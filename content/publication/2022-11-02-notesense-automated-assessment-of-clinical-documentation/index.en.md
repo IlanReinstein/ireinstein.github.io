@@ -7,6 +7,7 @@ categories: []
 tags:
   - machine learning
   - NLP
+  - Medical Education
 subtitle: ''
 summary: 'Residents receive infrequent feedback on their clinical reasoning (CR) documentation. While machine learning (ML) and natural language processing (NLP) have been used to assess CR documentation in standardized cases, no studies have described similar use in the clinical environment.'
 authors: []
