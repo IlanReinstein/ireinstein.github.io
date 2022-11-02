@@ -23,7 +23,7 @@ role: Data Scientist, Machine Learning Engineer
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ir729@nyu.edu'
+  link: 'mailto:analyticsresonance1@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/IlanReinstein
